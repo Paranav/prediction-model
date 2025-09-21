@@ -111,5 +111,3 @@ price = (rooms_weight × rooms) + (sqft_weight × sqft) + bias
 ```
 
 ---
-
-Would you like me to also add a **📊 sample dataset (CSV)** example inside the README, so users immediately know what format their training data should be in?
