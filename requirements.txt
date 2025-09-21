@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+numpy
+pandas
+num2words
+python-multipart
